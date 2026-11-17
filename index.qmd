@@ -1,0 +1,17 @@
+---
+title: "Ruben Custers"
+about:
+  template: jolla
+  image: image.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/R-Custers
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ruben-custers-aa445a408/
+---
+
+Welcome to my personal website. 
+Below you can find links to my Github and LinkedIn.
+You can read more about who I am [here](about.qmd)

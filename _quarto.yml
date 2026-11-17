@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Ruben Custers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - href: CV.pdf
+        text: CV
+        target: _blank
+
+format:
+  html:
+    theme:
+      - lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

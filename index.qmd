@@ -13,5 +13,9 @@ about:
 ---
 
 Welcome to my personal website. 
+
+
 Below you can find links to my Github and LinkedIn.
+
+
 You can read more about who I am [here](about.qmd)
